@@ -13,4 +13,3 @@ services:
     environment:
       - PORT=2100
       - NODE_ENV=development
-    command: tail -f /dev/null
